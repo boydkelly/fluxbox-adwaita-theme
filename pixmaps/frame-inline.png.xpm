@@ -1,0 +1,10 @@
+/* XPM */
+static char *frame_inline_png[] = {
+/* columns rows colors chars-per-pixel */
+"3 2 2 1 ",
+"  c #9D9D99",
+". c None",
+/* pixels */
+" . ",
+"   "
+};

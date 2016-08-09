@@ -1,0 +1,25 @@
+/* XPM */
+static char *pan_left_insensitive_png[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c #8B8D8F",
+". c #8B8E8F",
+"X c None",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXX XXXXXX",
+"XXXXXXXX .XXXXXX",
+"XXXXXXX ..XXXXXX",
+"XXXXXX ...XXXXXX",
+"XXXXX ....XXXXXX",
+"XXXXXX....XXXXXX",
+"XXXXXXX...XXXXXX",
+"XXXXXXXX..XXXXXX",
+"XXXXXXXXX.XXXXXX",
+"XXXXXXXXX XXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX"
+};

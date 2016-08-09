@@ -1,0 +1,10 @@
+/* XPM */
+static char *menubar_item_active_png[] = {
+/* columns rows colors chars-per-pixel */
+"1 3 1 1 ",
+"  c #4A90D9",
+/* pixels */
+" ",
+" ",
+" "
+};

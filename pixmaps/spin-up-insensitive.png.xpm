@@ -1,0 +1,16 @@
+/* XPM */
+static char *spin_up_insensitive_png[] = {
+/* columns rows colors chars-per-pixel */
+"9 6 4 1 ",
+"  c #8B8D8F",
+". c #8B8E8F",
+"X c #8B8F8F",
+"o c None",
+/* pixels */
+"ooooooooo",
+"ooooooooo",
+"ooo .Xooo",
+"oo ...Xoo",
+"o .....Xo",
+" .......X"
+};

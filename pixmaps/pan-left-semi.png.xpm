@@ -1,0 +1,26 @@
+/* XPM */
+static char *pan_left_semi_png[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"  c #2E3436",
+". c #2E3536",
+"X c #2E3537",
+"o c None",
+/* pixels */
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"ooooooXooooooooo",
+"oooooo Xoooooooo",
+"oooooo  Xooooooo",
+"oooooo   Xoooooo",
+"oooooo    Xooooo",
+"oooooo     Xoooo",
+"oooooo......oooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo",
+"oooooooooooooooo"
+};

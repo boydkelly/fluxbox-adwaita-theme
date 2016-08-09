@@ -1,0 +1,25 @@
+/* XPM */
+static char *pan_right_png[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c #2E3436",
+". c #2F3536",
+"X c None",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXX.XXXXXXXXX",
+"XXXXXX .XXXXXXXX",
+"XXXXXX  .XXXXXXX",
+"XXXXXX   .XXXXXX",
+"XXXXXX    .XXXXX",
+"XXXXXX    XXXXXX",
+"XXXXXX   XXXXXXX",
+"XXXXXX  XXXXXXXX",
+"XXXXXX XXXXXXXXX",
+"XXXXXX XXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX"
+};

@@ -1,0 +1,24 @@
+/* XPM */
+static char *scrollbar_horz_slider_png[] = {
+/* columns rows colors chars-per-pixel */
+"13 13 5 1 ",
+"  c #777D7D",
+". c #787C7D",
+"X c #797D7D",
+"o c #787C7E",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOO",
+"OOOOOOOOOOOOO",
+"OOOOOOOOOOOOO",
+"OOOOOOOOOOOOO",
+"OOOOo... OOOO",
+"OOOo.....oOOO",
+"OOO.......OOO",
+"OOO.......OOO",
+"OOO .....XOOO",
+"OOOO ...oOOOO",
+"OOOOOOOOOOOOO",
+"OOOOOOOOOOOOO",
+"OOOOOOOOOOOOO"
+};

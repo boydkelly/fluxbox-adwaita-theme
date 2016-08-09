@@ -1,0 +1,27 @@
+/* XPM */
+static char *menu_checkbox_mixed_png[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #2F3435",
+". c #2E3436",
+"X c #2E3536",
+"o c #2E3437",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OO............OO",
+"O.OOOOOOOOOOOOXO",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OO.XXXXXX.OO.O",
+"O.O..........O.O",
+"O.O.........XO.O",
+"O.OO........OO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"OXOOOOOOOOOOOOoO",
+"OO........... OO",
+"OOOOOOOOOOOOOOOO"
+};

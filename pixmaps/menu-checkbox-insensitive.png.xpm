@@ -1,0 +1,27 @@
+/* XPM */
+static char *menu_checkbox_insensitive_png[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 5 1 ",
+"  c #8B8D8F",
+". c #8B8E8F",
+"X c #8B8F8F",
+"o c #8B8E90",
+"O c None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OO...........XOO",
+"OoOOOOOOOOOOOOXO",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"O.OOOOOOOOOOOO.O",
+"OO........... OO",
+"OOOOOOOOOOOOOOOO"
+};

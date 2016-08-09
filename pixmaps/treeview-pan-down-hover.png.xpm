@@ -1,0 +1,25 @@
+/* XPM */
+static char *treeview_pan_down_hover_png[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 3 1 ",
+"  c #636769",
+". c #64686A",
+"X c None",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXX        XXXX",
+"XXXXX      XXXXX",
+"XXXXXX    XXXXXX",
+"XXXXXXX  XXXXXXX",
+"XXXXXXX..XXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX"
+};

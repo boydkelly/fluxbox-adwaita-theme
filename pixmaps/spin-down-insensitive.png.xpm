@@ -1,0 +1,14 @@
+/* XPM */
+static char *spin_down_insensitive_png[] = {
+/* columns rows colors chars-per-pixel */
+"9 6 2 1 ",
+"  c #8B8E8F",
+". c None",
+/* pixels */
+".........",
+".       .",
+"..     ..",
+"...   ...",
+".... ....",
+"........."
+};
