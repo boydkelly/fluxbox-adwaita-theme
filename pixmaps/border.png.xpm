@@ -1,8 +1,0 @@
-/* XPM */
-static char *border_png[] = {
-/* columns rows colors chars-per-pixel */
-"1 1 1 1 ",
-"  c #9D9D99",
-/* pixels */
-" "
-};

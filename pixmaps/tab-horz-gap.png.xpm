@@ -1,9 +1,0 @@
-/* XPM */
-static char *tab_horz_gap_png[] = {
-/* columns rows colors chars-per-pixel */
-"3 1 2 1 ",
-"  c white",
-". c None",
-/* pixels */
-". ."
-};

@@ -1,9 +1,0 @@
-/* XPM */
-static char *scrollbar_vert_trough_rtl_png[] = {
-/* columns rows colors chars-per-pixel */
-"2 1 2 1 ",
-"  c #C3C4C4",
-". c #9D9D99",
-/* pixels */
-" ."
-};
